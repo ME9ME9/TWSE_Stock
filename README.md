@@ -10,6 +10,7 @@ No tutorial available
 git status
 git clone html
 git add . // track all the files in the dir
+git commit -m “[ Type in the commit message]”
 git push origin main //upload to github: origin=location of repo, main=branch name
 
 ## Target Websites
